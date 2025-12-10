@@ -1,0 +1,2 @@
+# Digital-Workflow-for-Patient-Specific-Parametric-Prosthetic-Foot-Design
+This project automates the customisation of a parametric prosthetic foot model using Python and Autodesk Fusion 360. User-defined size presets or custom dimensions are exported as synchronised parameters and applied directly to the CAD model, enabling fast, repeatable, and patient-specific geometry updates without manual redesign.
